@@ -1,2 +1,3 @@
 Here is some more text for testing.
 This file has also been edited.
+I have added a line to this file.
